@@ -15,7 +15,7 @@ Tampilan utama dari aplikasi ini dirancang agar mudah digunakan dan responsif, m
 apt install -y && apt update -y && apt upgrade -y && wget -q https://github.com/tonnystoree/TONNY-STORE/raw/refs/heads/main/install && chmod +x install  && ./install 
 ```
 
-## 3. JIKA DI PERLUKAN UPDATE SCRIPT ( optional )
+## 3. UPDATE SCRIPT WAJIB SETELAH INSTALL AGAR MENU TERLIHAT SESUAI NAMA DAN IJIN IP 
 
 ## UPDATE SCRIPT
 
