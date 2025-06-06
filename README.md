@@ -7,7 +7,7 @@ Tampilan utama dari aplikasi ini dirancang agar mudah digunakan dan responsif, m
 
 ## 1.MASUKAN DAHULU IP VPS DAN DAFTARKAN DI LINK BERIKUT INI ( pastikan sudah di pointing di cloudflare )
 
-- https://github.com/tonnystoree/TONNY-STORE/blob/main/install
+- https://github.com/tonnystoree/TONY/raw/refs/heads/main/ijin
 
 ## 2. INSTALL SCRIPT TONY STORE COPY PASTE LINK BERIKUT DI VPS KAMU SEBAGAI ROOT
 
