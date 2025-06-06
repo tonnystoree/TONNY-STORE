@@ -32,8 +32,8 @@ wget -q https://github.com/tonnystoree/TONNY-STORE/raw/refs/heads/main/update_to
 
 
 ### SUPPORT OS LINUX
-- UBUNTU 20.04.05
-- DEBIAN 10
+- UBUNTU 18 & 20.04.05
+- DEBIAN  9 & 10
 
 VPS PREMIUM - AUTO XRAY, SSH, WEBSOCKET, SHADOWSOCKS & LAINNYA 🚀
 
