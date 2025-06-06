@@ -18,17 +18,16 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://github.com/
 ## 3. JIKA DI PERLUKAN UPDATE SCRIPT ( optional )
 
 ## UPDATE SCRIPT
+
 ```
-wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://github.com/tonnystoree/TONNY-STORE/raw/refs/heads/main/update_tony && chmod +x update_tony && ./update_tony
 ```
 
 
 ### 4. mendapatkan akses root ke vps mu ( jika vps tidak mengijinkan akses root) jika sudah posisi root abaikan saja .
 
 ``````
-
   wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/aksesroot.sh && bash aksesroot.sh
-
 ```````
 
 
