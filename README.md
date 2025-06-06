@@ -71,4 +71,21 @@ Siap Jualan Setelah Install
 
 ===============================================================================================================
 
-![TONNY STORE](https://github.com/tonnystoree/TONNY-STORE/blob/main/TONY%20STORE.jpg?raw=true)
+<h1 align="center">🛒 TONNY STORE</h1>
+
+<p align="center">
+  <img src="https://github.com/tonnystoree/TONNY-STORE/blob/main/TONY%20STORE.jpg?raw=true" alt="TONNY STORE" width="600"/>
+</p>
+
+<p align="center">
+  Toko online terbaik dengan produk berkualitas dan harga bersahabat!
+</p>
+
+---
+
+## ✨ Fitur
+- Produk berkualitas
+- Pelayanan cepat
+- Pembayaran aman
+- Dukungan 24/7
+
