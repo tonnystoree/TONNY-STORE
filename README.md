@@ -1,4 +1,4 @@
-# 🚀 ALPHA SCRIPT
+# 🚀 TONY STORE SCRIPT
 
 Tampilan utama dari aplikasi ini dirancang agar mudah digunakan dan responsif, memberikan pengalaman pengguna yang maksimal.
 
